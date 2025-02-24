@@ -1,4 +1,7 @@
-# This file will help me to deploy my application as a package
+'''
+This file will help me to deploy my application as a package
+
+'''
 from setuptools import find_packages, setup
 from typing import List
 
