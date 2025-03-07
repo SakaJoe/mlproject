@@ -1,3 +1,9 @@
+'''
+When you run the command pip install -r requirements.txt, it will look through this file and the value -e. will trigger the execution of the file setup.py
+.e is mapped to setup.py
+'''
+
+
 pandas
 numpy
 seaborn
